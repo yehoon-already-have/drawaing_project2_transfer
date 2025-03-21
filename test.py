@@ -9,4 +9,4 @@ print(torch.cuda.get_device_name(0))  # GPU 이름 확인
 
 
 # albumentations에서 사용 가능한 변환 기법들 출력
-# print(dir(A))
+# print(dir(A))  
